@@ -594,4 +594,3 @@
 --ee-hook=0x00117584,FastForwardClock
 --ee-hook=0x00117588,FastForwardClock
 --ee-hook=0x0011758C,FastForwardClock
---cop2-no-clamping=1
