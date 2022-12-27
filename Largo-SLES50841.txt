@@ -594,3 +594,5 @@
 --ee-hook=0x00117584,FastForwardClock
 --ee-hook=0x00117588,FastForwardClock
 --ee-hook=0x0011758C,FastForwardClock
+--vu0-no-clamping=0
+--vu1-no-clamping=0
