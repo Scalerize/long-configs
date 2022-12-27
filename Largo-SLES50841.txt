@@ -594,5 +594,8 @@
 --ee-hook=0x00117584,FastForwardClock
 --ee-hook=0x00117588,FastForwardClock
 --ee-hook=0x0011758C,FastForwardClock
+#For texture sps
 --vu0-no-clamping=0
 --vu1-no-clamping=0
+#For floor textures
+--gs-kernel-cl-up="up2x2simple"
