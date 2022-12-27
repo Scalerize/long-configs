@@ -594,7 +594,7 @@
 --ee-hook=0x00117584,FastForwardClock
 --ee-hook=0x00117588,FastForwardClock
 --ee-hook=0x0011758C,FastForwardClock
-#For texture sps
+#For texture sps, set to 1 if you encounter flickering models
 --vu0-no-clamping=0
 --vu1-no-clamping=0
 #Speedhack
