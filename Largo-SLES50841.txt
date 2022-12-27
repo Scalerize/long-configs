@@ -599,5 +599,5 @@
 --vu1-no-clamping=0
 #Speedhack
 --vu1-di-bits=0
-#For floor textures
+#For floor shadow texture upscaling issue
 --gs-kernel-cl-up="up2x2simple"
