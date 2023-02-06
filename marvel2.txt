@@ -9,6 +9,7 @@
 --ee-hook=0x0054A8FC,AdvanceClock,,20000
 --ee-hook=0x0054A900,AdvanceClock,,20000
 --ee-hook=0x0054A904,AdvanceClock,,20000
+--ee-hook=0x0054B5D4,AdvanceClock,,20000
 --ee-hook=0x0054A908,AdvanceClock,,20000
 --ee-hook=0x0054A90C,AdvanceClock,,20000
 --ee-hook=0x0054A910,AdvanceClock,,20000
