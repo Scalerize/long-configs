@@ -1,3 +1,4 @@
+--vu1=jit-sync
 --ee-hook=0x0054A8E0,AdvanceClock,,20000
 --ee-hook=0x0054A8E4,AdvanceClock,,20000
 --ee-hook=0x0054A8E8,AdvanceClock,,20000
